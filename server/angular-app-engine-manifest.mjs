@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://sekarchandran.github.io/smart-text-app',
+  basePath: '/',
   allowedHosts: [],
   supportedLocales: {
   "en-US": ""

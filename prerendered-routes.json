@@ -1,5 +1,5 @@
 {
   "routes": {
-    "/smart-text-app": {}
+    "/": {}
   }
 }
