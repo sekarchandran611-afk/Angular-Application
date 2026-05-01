@@ -1,0 +1,2 @@
+export default `body{font-family:Arial;background:#eef1f5;text-align:center;margin-top:50px}.container{width:55%;margin:auto;background:#fff;padding:25px;border-radius:12px;box-shadow:0 0 10px #aaa}textarea{width:100%;height:160px;margin-top:10px;padding:10px;font-size:14px}.box{margin-top:20px;text-align:left;background:#f9f9f9;padding:15px;border-radius:8px}button{margin-top:10px;padding:8px 15px;background:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer}button:hover{background:#0056b3}.warning{color:red;font-weight:700}
+`;
