@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/Angular-Application',
   allowedHosts: [],
   supportedLocales: {
   "en-US": ""
