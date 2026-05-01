@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Angular-Application',
+  basePath: '/smart-text-app',
   allowedHosts: [],
   supportedLocales: {
   "en-US": ""
