@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Angular-Application',
+  basePath: 'https://sekarchandran.github.io/smart-text-app',
   allowedHosts: [],
   supportedLocales: {
   "en-US": ""
