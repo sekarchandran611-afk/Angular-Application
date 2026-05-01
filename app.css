@@ -1,9 +1,0 @@
-/* Very simple spacing so things don't touch the edges */
-textarea {
-  display: block;
-}
-
-button {
-  padding: 10px;
-  cursor: pointer;
-}
